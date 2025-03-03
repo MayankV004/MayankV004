@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mayank%20Verma&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Mayank%20Verma&fontSize=80&fontAlignY=35&animation=scaleIn&font=Sacramento%20Marker&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=60&descSize=25" />
 </div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Creative+Thinker" alt="Typing SVG" />
 </h1>
@@ -13,7 +12,7 @@
   <a href="https://github.com/MayankV004">
     <img src="https://img.shields.io/badge/GitHub-MayankV004-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mayankverma">
+  <a href="https://www.linkedin.com/in/mayank-verma-3226b52a6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
@@ -181,30 +180,32 @@ I'm a passionate developer who transforms ideas into elegant software solutions.
 
 <div align="center">
   <h2>🚀 Featured Projects 🚀</h2>
-</div>
 
-<div>
-  <!-- Chat-me Project -->
-  <a href="https://github.com/MayankV004/Chat-me">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayankV004&repo=Chat-me&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Chat-me"/>
-  </a>
-  
-  <div >
-    <img src="https://img.shields.io/badge/Real--time_Chat-FF4154?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MERN_Stack-00ADD8?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-  </div>
-  
-  <!-- Quizzy Project -->
-  <a href="https://github.com/MayankV004/Quizzy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayankV004&repo=Quizzy&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Quizzy"/>
-  </a>
-  
-  <div >
-    <img src="https://img.shields.io/badge/Interactive_Quizzes-5E5CE6?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<!--     <img src="https://img.shields.io/badge/Custom_Categories-FFA116?style=flat-square&logoColor=white"/> -->
-  </div>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/MayankV004/Chat-me">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayankV004&repo=Chat-me&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&show_description=true" alt="Chat-me"/>
+        </a>
+        <br>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Real--time_Chat-FF4154?style=flat-square&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MERN_Stack-00ADD8?style=flat-square&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        </div>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/MayankV004/Quizzy">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MayankV004&repo=Quizzy&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&show_description=true" alt="Quizzy"/>
+        </a>
+        <br>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Interactive_Quizzes-5E5CE6?style=flat-square&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
