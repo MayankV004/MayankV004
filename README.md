@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-MayankV004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MayankV004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-verma-3226b52a6/)
 
-Full-stack developer specializing in MERN stack, passionate about clean code and elegant solutions.
+Full-stack developer specializing in MERN stack, focused on writing clean and practical code.
 
 ## About Me
 
