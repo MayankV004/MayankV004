@@ -47,12 +47,6 @@ I'm a developer who turns ideas into working software. I know both frontend and 
 - Proficient in data structures, algorithms, and dynamic programming
 - Strong analytical skills for optimizing time and space complexity
 
-## Featured Projects
-### [Chat-me](https://github.com/MayankV004/Chat-me)
-A real-time chat application built with the MERN stack and Socket.io
-
-### [Quizzy](https://github.com/MayankV004/Quizzy)
-An interactive quiz platform developed with React
 
 ## GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=MayankV004&style=flat-square&color=blueviolet)
