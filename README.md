@@ -7,8 +7,8 @@
 [![Email](https://img.shields.io/badge/Email-mayank.msverma%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mayank.msverma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-verma-3226b52a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-MayankV004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MayankV004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=flat-square&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://mayank-portfolio-five.vercel.app/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/your-profile](https://leetcode.com/u/Mayank004/))
 
 </div>
 
