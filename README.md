@@ -21,7 +21,6 @@ I'm a 3rd-year CSE student at **IIIT Kottayam** (CGPA: 8.9/10) who builds produc
 - 🏗️ Built and deployed full-stack apps used by **500+ real users**
 - 🤖 Integrated AI (Gemini, AWS ML) into real-world products
 - ⛓️ Shipped a custom blockchain with Merkle trees and 6 Dockerized microservices
-- 🧩 Solved **300+ DSA problems** on LeetCode & GeeksForGeeks
 - 🌱 Currently exploring distributed systems and advanced cloud architecture
 
 
